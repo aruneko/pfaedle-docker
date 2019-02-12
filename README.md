@@ -53,3 +53,5 @@ calendar_dates.txt   routes.txt           trips.txt
 fare_attributes.txt  shapes.txt
 ```
 
+# License
+MIT
